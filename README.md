@@ -12,9 +12,14 @@ ____
 
 
 ### 💻 Featured Projects
+
 <a href="https://github.com/phamgiakiet000/Sales_Website/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamgiakiet000&repo=Sales_Website&theme=radical" />
 </a>    
 
+<a href="https://github.com/phamgiakiet000/Restaurant_management/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamgiakiet000&repo=Restaurant_management&theme=radical" />
+</a> 
 
