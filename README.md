@@ -26,3 +26,8 @@ ____
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamgiakiet000&repo=Vehicle_management&theme=radical" />
 </a> 
+
+<a href="https://github.com/phamgiakiet000/Rock_Paper_Scissor/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phamgiakiet000&repo=Rock_Paper_Scissor&theme=radical" />
+</a> 
